@@ -26,5 +26,3 @@ Sebuah aplikasi yang dapat digunakan untuk mengelola data mahasiswa.
     3. Halaman Pendaftaran Mahasiswa Baru ✓
     4. Halaman Komentar ✓
     5. Halaman Melihat Nilai Mahasiswa ✓
-
-    UBAH SEMUA UI DARI USER KARENA BUTUH QUERY PARAMETER
