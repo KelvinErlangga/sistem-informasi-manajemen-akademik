@@ -1,8 +1,3 @@
-# Sebuah Project ETS Mata Kuliah Pengembangan Aplikasi Web
-
-NBI : 1462200082
-Nama : Kelvin Erlangga Satriagung
-
 # Aplikasi Sistem Informasi Akademik
 
 Sebuah aplikasi yang dapat digunakan untuk mengelola data mahasiswa.
