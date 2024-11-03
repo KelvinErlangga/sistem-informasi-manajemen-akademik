@@ -47,7 +47,7 @@ if (!empty($_SESSION['username']) && $_SESSION['role'] == 'Admin') {
             </div>
 
             <button class="w-100 rounded-5 btn btn-lg btn-warning mt-3 mb-2" name="masuk" value="abc" type="submit">Masuk</button>
-            <p>Belum memiliki akun? <a href="registrasi">Daftar!</a></p>
+            <p>Belum memiliki akun? <a href="registrasi" style="text-decoration: none">Daftar!</a></p>
             <p class="mt-4 mb-3 text-muted">&copy; 2024 kelvin&trade;. All rights reserved.</p>
         </form>
     </main>
